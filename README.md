@@ -28,7 +28,7 @@ The Chat with Multiple PDFs application is a user-friendly and robust tool that 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chat-with-multiple-pdfs.git
+   git clone https://github.com/Faiziahmad/chat-with-multiple-pdfs.git
    ```
 
 2. Install dependencies:
@@ -60,13 +60,6 @@ The code follows a modular design, allowing for easy extensibility and integrati
 - Integration with cloud storage for document accessibility.
 - Improved user customization options for conversation preferences.
 
-## Contribution Guidelines
-
-If you would like to contribute to the project, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
