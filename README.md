@@ -36,8 +36,13 @@ The Chat with Multiple PDFs application is a user-friendly and robust tool that 
    ```bash
    pip install -r requirements.txt
    ```
+   
+3. Change the API Tokens in the .env file
 
-3. Run the application:
+   ''' You can get your API Tokens from OpenAI / HuggingFace Website for free
+   
+
+5. Run the application:
 
    ```bash
    streamlit run app.py
