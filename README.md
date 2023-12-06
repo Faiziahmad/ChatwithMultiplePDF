@@ -39,8 +39,11 @@ The Chat with Multiple PDFs application is a user-friendly and robust tool that 
    
 3. Change the API Tokens in the .env file
 
-   ''' You can get your API Tokens from OpenAI / HuggingFace Website for free
-   
+   You can get your API Tokens from OpenAI / HuggingFace Website for free
+   ```bash
+   https://platform.openai.com/api-keys
+   https://huggingface.co/settings/tokens
+   ```
 
 5. Run the application:
 
